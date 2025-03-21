@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-21T07:31:07.896Z</updated>
+  <updated>2025-03-21T16:26:12.701Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,16 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>记录</title>
-    <link href="http://example.com/2025/03/21/%E8%AE%B0%E5%BD%95/"/>
-    <id>http://example.com/2025/03/21/%E8%AE%B0%E5%BD%95/</id>
-    <published>2025-03-21T07:29:45.000Z</published>
-    <updated>2025-03-21T07:31:07.896Z</updated>
+    <title>test</title>
+    <link href="http://example.com/2025/03/22/test/"/>
+    <id>http://example.com/2025/03/22/test/</id>
+    <published>2025-03-21T16:10:40.000Z</published>
+    <updated>2025-03-21T16:26:12.701Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/Snipaste_2025-03-21_15-28-00.png&quot; alt=&quot;alt text&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2025/03/22/test/Snipaste_2025-03-21_15-28-00.png&quot; alt=&quot;alt text&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;折腾了一天……，每次使用new指令新建一文，图片放在文件夹中，两个斜杠&lt;/li&gt;
+&lt;/ul&gt;
 </summary>
       
     
