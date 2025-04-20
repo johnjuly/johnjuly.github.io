@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/2025/03/22/test/</url>
+    <content><![CDATA[<p><img src="/2025/03/22/test/Snipaste_2025-03-21_15-28-00.png" alt="alt text"></p>
+<ul>
+<li>折腾了一天……，每次使用new指令新建一文，图片放在文件夹中，两个斜杠</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2025/03/21/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,6 +28,11 @@
 ]]></content>
   </entry>
   <entry>
+    <title>一生一芯启动</title>
+    <url>/2025/04/10/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%90%AF%E5%8A%A8/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>记录昨天</title>
     <url>/2025/03/23/%E8%AE%B0%E5%BD%95%E6%98%A8%E5%A4%A9/</url>
     <content><![CDATA[<p>今日星空：火星与木星在一条直线上，参宿其中，上为扪宿；火星与北河二星，其下南河三；<br>天狼与轩辕十四；</p>
@@ -27,19 +41,5 @@
       <tags>
         <tag>-think</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>一生一芯启动</title>
-    <url>/2025/04/10/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%90%AF%E5%8A%A8/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2025/03/22/test/</url>
-    <content><![CDATA[<p><img src="/2025/03/22/test/Snipaste_2025-03-21_15-28-00.png" alt="alt text"></p>
-<ul>
-<li>折腾了一天……，每次使用new指令新建一文，图片放在文件夹中，两个斜杠</li>
-</ul>
-]]></content>
   </entry>
 </search>
