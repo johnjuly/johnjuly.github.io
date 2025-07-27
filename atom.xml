@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-03-23T14:49:56.417Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>johnjuly</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录昨天</title>
+    <link href="http://example.com/2025/03/23/%E8%AE%B0%E5%BD%95%E6%98%A8%E5%A4%A9/"/>
+    <id>http://example.com/2025/03/23/%E8%AE%B0%E5%BD%95%E6%98%A8%E5%A4%A9/</id>
+    <published>2025-03-23T14:31:20.000Z</published>
+    <updated>2025-03-23T14:49:56.417Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今日星空：火星与木星在一条直线上，参宿其中，上为扪宿；火星与北河二星，其下南河三；&lt;br&gt;天狼与轩辕十四；&lt;/p&gt;
+&lt;p&gt;又见八里台，生活好似停滞不前，连机器人也比不上，逻辑能力之类；就是无法记忆，信任的问题，无法相信任何事情的意义，如流水只是经过，怎么能够……&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="-think" scheme="http://example.com/tags/think/"/>
+    
+  </entry>
+  
+</feed>
